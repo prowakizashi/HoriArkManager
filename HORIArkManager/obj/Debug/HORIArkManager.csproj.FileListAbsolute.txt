@@ -1,0 +1,13 @@
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\bin\Debug\HORIArkManager.exe
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\bin\Debug\HORIArkManager.pdb
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\obj\Debug\MainWindow.g.cs
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\obj\Debug\App.g.cs
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\obj\Debug\HORIArkManager_MarkupCompile.cache
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\obj\Debug\HORIArkManager_MarkupCompile.lref
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\obj\Debug\MainWindow.baml
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\obj\Debug\HORIArkManager.g.resources
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\obj\Debug\HORIArkManager.Properties.Resources.resources
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\obj\Debug\HORIArkManager.csproj.GenerateResource.Cache
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\obj\Debug\HORIArkManager.exe
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\obj\Debug\HORIArkManager.pdb
+D:\Coding\HORI\Ark\HORIArkManager\HORIArkManager\bin\Debug\HORIArkManager.exe.config
